@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850022983760",
+    "project_id": "xamarinsdk-44581",
+    "storage_bucket": "xamarinsdk-44581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850022983760:android:8ba2c396d65c3341058955",
+        "android_client_info": {
+          "package_name": "com.dengagesdksg.dengagetest123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850022983760-jiqdrh4ej35on0j7qhh8v9d4c3sbp2gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNYmJdj8BXdo4LTn7WR3kniUrJabJAeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850022983760-jiqdrh4ej35on0j7qhh8v9d4c3sbp2gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

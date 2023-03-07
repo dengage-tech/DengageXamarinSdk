@@ -1,0 +1,13 @@
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/_ProcessedBundleResourcesPath.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/_ProcessedContentPath.items
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/DengageTest123.iOS.csproj.AssemblyReference.cache
+/Users/hasnaintanvir/Documents/DengageSdkMain/DengageTest123/DengageTest123.iOS/obj/iPhoneSimulator/Debug/DengageTest123.iOS.csproj.CoreCompileInputs.cache

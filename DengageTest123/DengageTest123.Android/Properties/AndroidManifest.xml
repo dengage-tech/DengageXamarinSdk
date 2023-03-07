@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.dengagesdksg.dengagetest123">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="33" />
+	<application android:label="DengageTest123.Android" android:theme="@style/MainTheme">
+		<meta-data android:name="den_event_api_url" android:value="https://event.dengage.com" />
+		<!-- Push api url of Dengage -->
+		<meta-data android:name="den_push_api_url" android:value="https://push.dengage.com" />
+		<meta-data android:name="den_device_id_api_url" android:value="https://magento.232.dengage.shobii.com/rest/" />
+		<!-- Real time inapp api url of Dengage -->
+		<meta-data android:name="den_in_app_api_url" android:value="https://push.dengage.com" />
+		<service android:name="com.dengage.sdk.push.FcmMessagingService" android:exported="false">
+			<intent-filter>
+				<action android:name="com.google.firebase.MESSAGING_EVENT" />
+			</intent-filter>
+		</service>
+		<receiver android:name="com.dengage.sdk.push.NotificationReceiver" android:exported="false">
+			<intent-filter>
+				<action android:name="com.dengage.push.intent.RECEIVE" />
+				<action android:name="com.dengage.push.intent.OPEN" />
+				<action android:name="com.dengage.push.intent.DELETE" />
+				<action android:name="com.dengage.push.intent.ACTION_CLICK" />
+				<action android:name="com.dengage.push.intent.ITEM_CLICK" />
+				<action android:name="com.dengage.push.intent.CAROUSEL_ITEM_CLICK" />
+			</intent-filter>
+		</receiver>
+	</application>
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+<uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
+</manifest>
