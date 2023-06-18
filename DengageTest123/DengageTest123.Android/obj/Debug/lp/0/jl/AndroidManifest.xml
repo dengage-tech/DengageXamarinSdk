@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dengage.sdk" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application>
+        <activity
+            android:name="com.dengage.sdk.ui.test.DengageTestActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DengageAndroid" />
+        <activity
+            android:name="com.dengage.sdk.ui.test.DengageTestInAppActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DengageAndroid" />
+        <activity
+            android:name="com.dengage.sdk.ui.test.DengageTestPushActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DengageAndroid" />
+        <activity
+            android:name="com.dengage.sdk.ui.test.DengageTestDeviceInfoActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DengageAndroid" />
+        <activity
+            android:name="com.dengage.sdk.ui.test.DengageTestDeviceCacheActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DengageAndroid" />
+        <activity
+            android:name="com.dengage.sdk.ui.test.DengageFetchTimeResetTestActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DengageAndroid" />
+        <activity
+            android:name="com.dengage.sdk.ui.test.DengageTestShowLogsActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DengageAndroid" />
+        <activity
+            android:name="com.dengage.sdk.ui.inappmessage.InAppMessageActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Transparent.NoActionBar" />
+        <activity
+            android:name="com.dengage.sdk.ui.inappmessage.InAppBrowserActivity"
+            android:theme="@style/BrowserTheme.NoActionBar" />
+        <activity
+            android:name="com.dengage.sdk.push.NotificationNavigationDeciderActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.Translucent" />
+    </application>
+
+</manifest>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sIYEkucqy27kc6Fsh+aMsw3uqElXs6yBBcJcmrUJaI4i+gUqHK7Clsy0Aqc30XBwutDf4Vr1S4+1zPCBPcYQ2Q==",
+  "success": true,
+  "projectFilePath": "/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin.Core/DengageSDK.Xamarin.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/hasnaintanvir/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/hasnaintanvir/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

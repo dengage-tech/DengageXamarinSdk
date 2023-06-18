@@ -1,0 +1,14 @@
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/bin/Debug/netstandard2.0/DengageTest123.deps.json
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/bin/Debug/netstandard2.0/DengageTest123.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/bin/Debug/netstandard2.0/ref/DengageTest123.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/bin/Debug/netstandard2.0/DengageTest123.pdb
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/DengageTest123.csproj.AssemblyReference.cache
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/DengageTest123.AssemblyInfoInputs.cache
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/DengageTest123.AssemblyInfo.cs
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/DengageTest123.csproj.CoreCompileInputs.cache
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/DengageTest123.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/ref/DengageTest123.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123/obj/Debug/netstandard2.0/DengageTest123.pdb

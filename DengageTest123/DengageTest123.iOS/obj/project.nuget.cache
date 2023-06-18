@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vC6bbymGpkagRIDBh+FOsScs/sW5RKZjvQOj4ZzRCSAx/4qru02eNRHVrb0IuVm4it8Qes2TrMhj/aGRuJDUjQ==",
+  "success": true,
+  "projectFilePath": "/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageTest123/DengageTest123.iOS/DengageTest123.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/hasnaintanvir/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/hasnaintanvir/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/hasnaintanvir/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

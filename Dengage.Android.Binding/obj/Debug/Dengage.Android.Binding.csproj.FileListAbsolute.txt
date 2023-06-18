@@ -1,0 +1,11 @@
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/bin/Debug/Dengage.Android.Binding.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/bin/Debug/Dengage.Android.Binding.pdb
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/__AndroidLibraryProjects__.zip
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/Dengage.Android.Binding.csproj.AssemblyReference.cache
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/class-parse.rsp
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/java-resolution-report.log
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/Dengage.Android.Binding.csproj.CoreCompileInputs.cache
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/Dengage.Android.Binding.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/Dengage.Android.Binding/obj/Debug/Dengage.Android.Binding.pdb

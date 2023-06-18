@@ -21,12 +21,12 @@ namespace DengageTest123.Droid
             LoadApplication(new App());
             //Firebase.FirebaseApp.InitializeApp(this);
             // FirebaseApp.InitializeApp(this);
-            //  DengageManager.GetInstance(ApplicationContext).SetFirebaseIntegrationKey("L99iAkJ_s_l_hFEGQnfrqECJAJCl030qcvHVvXL1YQN2YK0WSiA8SLtb63qcWhY9wScEJq0aDocmKHy38wybAFAG_p_l_tZNXkWN15XwmF0iGJFEpd48qF_p_l_eMjalp06l_s_l_2wjqDp5dPw3_p_l_r97jWQm_p_l_WBZ2Nk_s_l_hw_e_q__e_q_").SetHuaweiIntegrationKey("jjjk").SetLogStatus((Java.Lang.Boolean)true).Init();
+              DengageManager.GetInstance(ApplicationContext).SetFirebaseIntegrationKey("L99iAkJ_s_l_hFEGQnfrqECJAJCl030qcvHVvXL1YQN2YK0WSiA8SLtb63qcWhY9wScEJq0aDocmKHy38wybAFAG_p_l_tZNXkWN15XwmF0iGJFEpd48qF_p_l_eMjalp06l_s_l_2wjqDp5dPw3_p_l_r97jWQm_p_l_WBZ2Nk_s_l_hw_e_q__e_q_").SetHuaweiIntegrationKey("jjjk").SetLogStatus((Java.Lang.Boolean)true).Init();
             //DengageCoordinator.Default.init("bbkj", "njkj", true);
             //  DengageManager.GetInstance(ApplicationContext).OnNewToken("dasdasdad");
             //DengageManager.GetInstance(ApplicationContext).SetContactKey("testingXadasdmarin");
             //Dengage.Instance.SetContactKey("hasnainTestingjnkjn");
-            DengageManager.GetInstance(ApplicationContext).SetNavigation(this);
+            //DengageManager.GetInstance(ApplicationContext).SetNavigation(this);
          
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

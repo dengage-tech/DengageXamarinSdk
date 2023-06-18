@@ -1,0 +1,12 @@
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/bin/Debug/netstandard2.0/DengageSDK.Xamarin.deps.json
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/bin/Debug/netstandard2.0/DengageSDK.Xamarin.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/bin/Debug/netstandard2.0/DengageSDK.Xamarin.pdb
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/bin/Debug/netstandard2.0/DengageSDK.Xamarin.Core.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/bin/Debug/netstandard2.0/DengageSDK.Xamarin.Core.pdb
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/obj/Debug/netstandard2.0/DengageSDK.Xamarin.csproj.AssemblyReference.cache
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/obj/Debug/netstandard2.0/DengageSDK.Xamarin.AssemblyInfoInputs.cache
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/obj/Debug/netstandard2.0/DengageSDK.Xamarin.AssemblyInfo.cs
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/obj/Debug/netstandard2.0/DengageSDK.Xamarin.csproj.CoreCompileInputs.cache
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/obj/Debug/netstandard2.0/DengageSDK.Xamarin.csproj.CopyComplete
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/obj/Debug/netstandard2.0/DengageSDK.Xamarin.dll
+/Users/hasnaintanvir/Desktop/Dengage/DengageXamarinSdk/DengageSDK.Xamarin/obj/Debug/netstandard2.0/DengageSDK.Xamarin.pdb

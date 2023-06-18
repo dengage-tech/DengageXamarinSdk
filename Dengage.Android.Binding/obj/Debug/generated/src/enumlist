@@ -1,0 +1,16 @@
+com.dengage.sdk.data.cache.PreferenceKey:Com.Dengage.Sdk.Data.Cache:PreferenceKey
+com.dengage.sdk.data.remote.api.ApiType:Com.Dengage.Sdk.Data.Remote.Api:ApiType
+com.dengage.sdk.data.remote.error.ErrorType:Com.Dengage.Sdk.Data.Remote.Error:ErrorType
+com.dengage.sdk.domain.configuration.model.TokenType:Com.Dengage.Sdk.Domain.Configuration.Model:TokenType
+com.dengage.sdk.domain.inappmessage.model.ContentPosition:Com.Dengage.Sdk.Domain.Inappmessage.Model:ContentPosition
+com.dengage.sdk.domain.inappmessage.model.ContentType:Com.Dengage.Sdk.Domain.Inappmessage.Model:ContentType
+com.dengage.sdk.domain.inappmessage.model.DataType:Com.Dengage.Sdk.Domain.Inappmessage.Model:DataType
+com.dengage.sdk.domain.inappmessage.model.LogicOperator:Com.Dengage.Sdk.Domain.Inappmessage.Model:LogicOperator
+com.dengage.sdk.domain.inappmessage.model.Operator:Com.Dengage.Sdk.Domain.Inappmessage.Model:Operator
+com.dengage.sdk.domain.inappmessage.model.Priority:Com.Dengage.Sdk.Domain.Inappmessage.Model:Priority
+com.dengage.sdk.domain.inappmessage.model.SpecialRuleParameter:Com.Dengage.Sdk.Domain.Inappmessage.Model:SpecialRuleParameter
+com.dengage.sdk.domain.push.model.NotificationType:Com.Dengage.Sdk.Domain.Push.Model:NotificationType
+com.dengage.sdk.domain.rfm.model.RFMGender:Com.Dengage.Sdk.Domain.Rfm.Model:RFMGender
+com.dengage.sdk.manager.event.EventKey:Com.Dengage.Sdk.Manager.Event:EventKey
+com.dengage.sdk.manager.event.EventTable:Com.Dengage.Sdk.Manager.Event:EventTable
+com.dengage.sdk.manager.event.EventType:Com.Dengage.Sdk.Manager.Event:EventType
